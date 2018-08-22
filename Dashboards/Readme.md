@@ -25,3 +25,5 @@ Dynamic dashboards exploring pathway regulation in context of the following clin
 * Hover over the circles for details about the pathway.
 * The default view on the charts are from the factor analysis model of the entire dataset.
 * Relative contributions are loadings scaled to range (1,-1).
+
+(C) Revant Gupta (2018). "Personal pathway analysis as a means to integrate metabolomic and transcriptomic data in T2D intervention studies". Master's thesis for Molecular Techniques in Life Science. KTH Royal Institute of Technology, Karolinska Institutet, Stockholm University, and Science for Life Laboratory.
