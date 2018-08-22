@@ -5,7 +5,7 @@ Expression omics data can be analysed for differential expression with respect t
 
 ## Dashboards
 
-Dynamic dashboards exploring pathway regulation in context of the following clinical variables were developed using the bokeh package in python.
+Dynamic dashboards exploring pathway regulation in context of the following clinical variables were developed using the bokeh package in python. [Online viewer](https://htmlpreview.github.io/)
 
 ### Clinical variables
 
